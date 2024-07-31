@@ -1,0 +1,19 @@
+How to Play Minesweeper!
+
+Mission: The goal is Minesweeper is to reveal all the cells that don't
+have a bomb and to flag all the cells that have a bomb. If you click on
+a cell that has a bomb, you automatically lose!
+
+1. At the start of the game, click on a random cell to reveal it. (It is
+okay if the cell that you click on initially is a bomb; just start over
+by clicking "Reset")
+2. If that cell is surrounded by 1 or more bombs, it will show the number
+of bombs it is surrounded by in the square. This will give you a hint on
+where to click next. If that cell is not surrounded by a bomb, it will
+reveal more cells that you are given more hints on where the bombs are.
+3. Use these hints to reveal even more cells and flag all the locations
+where you think the bombs are.
+4. You win if all the flag locations match up with all the bomb locations
+and all the empty cells are revealed!
+
+Happy Minesweeping & Good Luck!! :)
